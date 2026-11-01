@@ -1,0 +1,11 @@
+anthropic==1.15.0
+pyTelegramBotAPI==4.37.1
+fastapi==0.147.0
+uvicorn[standard]==0.54.0
+python-multipart==0.0.32
+faster-whisper==1.2.1
+av==19.0.2
+numpy==2.5.4
+edge-tts==7.3.1
+gspread==6.2.1
+twilio==9.12.0

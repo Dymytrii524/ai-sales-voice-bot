@@ -1,0 +1,29 @@
+# Secrets - never commit
+config.py
+google_credentials.json
+*.json.key
+.env
+
+# Customer data
+users.db
+*.db
+data/calls.csv
+
+# Full company data (built by import_data.py) - only the demo sample in data/sample/ is published
+data/catalog.csv
+data/faq.csv
+data/info.csv
+
+# Old experiment
+table.py
+
+# Python / tools
+.venv/
+venv/
+__pycache__/
+*.pyc
+audio/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
